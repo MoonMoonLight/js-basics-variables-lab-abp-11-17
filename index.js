@@ -1,4 +1,3 @@
 // Code your solution in this file!
-var companyName;
+let companyName;
 companyName = "Scuber";
-
